@@ -12,6 +12,7 @@
 
 ## 文書
 
+- [As-Is簡易版：輸入急増と審査・検査能力の制約](notes/00-as-is-summary.md)
 - [背景・As-Isと検討課題](notes/01-background-as-is.md)
 - [現在確認できる問題と、その背景に関するエビデンス](notes/02-current-problems-evidence.md)
 
