@@ -15,6 +15,12 @@
 - [背景・As-Isと検討課題](notes/01-background-as-is.md)
 - [現在確認できる問題と、その背景に関するエビデンス](notes/02-current-problems-evidence.md)
 
+## 主要グラフ
+
+[![輸入許可件数と審査・検査における非違発見件数の比較](assets/charts/noncompliance-findings-per-import-permits.svg)](notes/02-current-problems-evidence.md#42-申告誤り等の発見実績を輸入許可件数で規格化した参考指標)
+
+**計算・解釈**：輸入許可件数の増加に比べ、審査・検査で発見された申告内容の誤り等の件数は増えておらず、許可10万件当たりの発見実績は参考計算で約63.5%低下した。これは実際の違反率・発見率・見逃し率や、人員制約との因果関係を直接示すものではない。数値、計算方法、期間差および出典はリンク先に記載する。
+
 ## 公開範囲と対象外
 
 - **事実**：このリポジトリには、公開済みの一次資料から確認できる情報だけを掲載します。
@@ -29,6 +35,7 @@
   https://www.customs.go.jp/zeikan/seido/smart/honbun2030.pdf
 - 税関「税関パンフレット 2026・Chapter 7 資料」  
   https://www.customs.go.jp/zeikan/pamphlet/report/pdf/report_008j.pdf
+- [財務省「政策評価調書（個別票）政策目標5-3」（令和5年度実績評価）](https://www.mof.go.jp/about_mof/mof_budget/budget/fy2025/kobetuhyou2025-15.pdf)
 - 財務省「令和6事務年度における関税等脱税事件に係る犯則調査の結果」  
   https://www.mof.go.jp/policy/customs_tariff/trade/collection/ka20251112a3_all.pdf
 - 財務省「令和6事務年度における輸入事後調査の結果」  

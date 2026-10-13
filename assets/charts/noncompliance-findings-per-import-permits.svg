@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">輸入許可件数と審査・検査における非違発見件数の比較</title>
+  <desc id="desc">5年間の年平均を比較すると、輸入許可件数の指数は100から267へ上昇した一方、非違発見件数の指数は100から97.4でほぼ横ばいだった。輸入許可10万件当たりの非違発見件数は291件から106件へ63.5パーセント低下した。これは発見率や見逃し率を直接示すものではない。</desc>
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", "Yu Gothic", Meiryo, sans-serif; fill: #172033; }
+    .title { font-size: 30px; font-weight: 700; }
+    .subtitle { font-size: 17px; fill: #5b6578; }
+    .panel-title { font-size: 19px; font-weight: 700; }
+    .axis { font-size: 13px; fill: #697386; }
+    .label { font-size: 15px; font-weight: 600; }
+    .value { font-size: 15px; font-weight: 700; }
+    .callout { font-size: 32px; font-weight: 700; fill: #b42318; }
+    .callout-sub { font-size: 14px; fill: #8f1d15; }
+    .note { font-size: 13px; fill: #5b6578; }
+  </style>
+
+  <text x="60" y="58" class="title">輸入増に対し、審査・検査での非違発見件数は横ばい</text>
+  <text x="60" y="88" class="subtitle">5年間の年平均で比較した参考指標（各期間の最終年を横軸に表示）</text>
+
+  <rect x="60" y="118" width="690" height="445" rx="12" fill="#f8fafc" stroke="#d8dee8"/>
+  <text x="88" y="153" class="panel-title">① 5年平均の推移（2015〜2019年＝100）</text>
+
+  <line x1="120" y1="470" x2="710" y2="470" stroke="#9aa4b2"/>
+  <line x1="120" y1="180" x2="120" y2="470" stroke="#9aa4b2"/>
+  <line x1="120" y1="441" x2="710" y2="441" stroke="#dfe4eb"/>
+  <line x1="120" y1="354" x2="710" y2="354" stroke="#dfe4eb"/>
+  <line x1="120" y1="267" x2="710" y2="267" stroke="#dfe4eb"/>
+  <line x1="120" y1="180" x2="710" y2="180" stroke="#dfe4eb"/>
+  <text x="108" y="446" text-anchor="end" class="axis">100</text>
+  <text x="108" y="359" text-anchor="end" class="axis">150</text>
+  <text x="108" y="272" text-anchor="end" class="axis">200</text>
+  <text x="108" y="185" text-anchor="end" class="axis">250</text>
+  <text x="84" y="315" text-anchor="middle" transform="rotate(-90 84 315)" class="axis">指数</text>
+
+  <polyline points="145,441 280,396 415,330 550,251 685,151" fill="none" stroke="#1769aa" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="145,441 280,444 415,444 550,443 685,446" fill="none" stroke="#d97706" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g fill="#1769aa">
+    <circle cx="145" cy="441" r="6"/><circle cx="280" cy="396" r="6"/><circle cx="415" cy="330" r="6"/><circle cx="550" cy="251" r="6"/><circle cx="685" cy="151" r="6"/>
+  </g>
+  <g fill="#d97706">
+    <rect x="139" y="435" width="12" height="12"/><rect x="274" y="438" width="12" height="12"/><rect x="409" y="438" width="12" height="12"/><rect x="544" y="437" width="12" height="12"/><rect x="679" y="440" width="12" height="12"/>
+  </g>
+
+  <text x="145" y="493" text-anchor="middle" class="axis">2015–19</text>
+  <text x="280" y="493" text-anchor="middle" class="axis">2016–20</text>
+  <text x="415" y="493" text-anchor="middle" class="axis">2017–21</text>
+  <text x="550" y="493" text-anchor="middle" class="axis">2018–22</text>
+  <text x="685" y="493" text-anchor="middle" class="axis">2019–23</text>
+
+  <line x1="115" y1="526" x2="143" y2="526" stroke="#1769aa" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="129" cy="526" r="5" fill="#1769aa"/>
+  <text x="152" y="531" class="label">輸入許可件数：100 → 267（2.67倍）</text>
+  <line x1="425" y1="526" x2="453" y2="526" stroke="#d97706" stroke-width="5" stroke-linecap="round"/>
+  <rect x="434" y="521" width="10" height="10" fill="#d97706"/>
+  <text x="462" y="531" class="label">非違発見件数：100 → 97.4</text>
+
+  <rect x="780" y="118" width="360" height="445" rx="12" fill="#f8fafc" stroke="#d8dee8"/>
+  <text x="808" y="153" class="panel-title">② 許可10万件当たりの発見実績</text>
+
+  <text x="808" y="204" class="axis">2015–19</text>
+  <rect x="880" y="184" width="218" height="26" rx="4" fill="#d7e8f5"/>
+  <text x="1089" y="203" text-anchor="end" class="value">291件</text>
+
+  <text x="808" y="260" class="axis">2016–20</text>
+  <rect x="880" y="240" width="170" height="26" rx="4" fill="#c4dff0"/>
+  <text x="1041" y="259" text-anchor="end" class="value">226件</text>
+
+  <text x="808" y="316" class="axis">2017–21</text>
+  <rect x="880" y="296" width="131" height="26" rx="4" fill="#afd4ea"/>
+  <text x="1002" y="315" text-anchor="end" class="value">174件</text>
+
+  <text x="808" y="372" class="axis">2018–22</text>
+  <rect x="880" y="352" width="103" height="26" rx="4" fill="#92c4df"/>
+  <text x="974" y="371" text-anchor="end" class="value">137件</text>
+
+  <text x="808" y="428" class="axis">2019–23</text>
+  <rect x="880" y="408" width="80" height="26" rx="4" fill="#1769aa"/>
+  <text x="952" y="427" text-anchor="end" class="value" fill="#ffffff" style="fill:#ffffff">106件</text>
+
+  <text x="808" y="493" class="callout">−63.5%</text>
+  <text x="808" y="519" class="callout-sub">291件 → 106件（参考計算）</text>
+
+  <line x1="60" y1="594" x2="1140" y2="594" stroke="#d8dee8"/>
+  <text x="60" y="624" class="note">読み方：輸入許可件数の増加に比べ、審査・検査で発見された申告内容の誤り等の件数は増えていない。</text>
+  <text x="60" y="649" class="note">注意：これは「発見実績の密度」であり、実際の違反率・発見率・見逃し率や、人員制約との因果関係を直接示すものではない。</text>
+  <text x="60" y="674" class="note">期間差：非違発見件数は年度、輸入許可件数は暦年。輸入許可件数は公表値（万件）を用いた概算。</text>
+  <text x="60" y="699" class="note">出典：財務省「政策評価調書（個別票）」PDF 6頁／税関「税関パンフレット2026・Chapter 7 資料」PDF 6頁</text>
+</svg>
