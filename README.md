@@ -19,6 +19,12 @@
 - [なぜNTTデータか：通関・貿易領域の実績と提案上の意味](notes/04-why-ntt-data.md)
 - [提案ストーリー草案：As-Isから審査支援システムまで](notes/05-proposal-storyline.md)
 
+## 参考スライド
+
+- [提案ストーリー参考版（PowerPoint）](slides/reference-proposal-storyline.pptx)
+
+**計算・解釈**：上記スライドは、現時点のストーリーを可視化した検討用の参考版であり、最終提案資料ではない。具体的な効果数値、業務負荷、システム構成および既存資産の利用可能性は未検証である。
+
 ## 主要グラフ
 
 [![輸入許可件数と審査・検査における非違発見件数の比較](assets/charts/noncompliance-findings-per-import-permits.svg)](notes/02-current-problems-evidence.md#42-申告誤り等の発見実績を輸入許可件数で規格化した参考指標)
