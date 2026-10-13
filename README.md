@@ -13,6 +13,7 @@
 ## 文書
 
 - [背景・As-Isと検討課題](notes/01-background-as-is.md)
+- [現在確認できる問題と、その背景に関するエビデンス](notes/02-current-problems-evidence.md)
 
 ## 公開範囲と対象外
 
@@ -28,6 +29,16 @@
   https://www.customs.go.jp/zeikan/seido/smart/honbun2030.pdf
 - 税関「税関パンフレット 2026・Chapter 7 資料」  
   https://www.customs.go.jp/zeikan/pamphlet/report/pdf/report_008j.pdf
+- 財務省「令和6事務年度における関税等脱税事件に係る犯則調査の結果」  
+  https://www.mof.go.jp/policy/customs_tariff/trade/collection/ka20251112a3_all.pdf
+- 財務省「令和6事務年度における輸入事後調査の結果」  
+  https://www.mof.go.jp/policy/customs_tariff/trade/collection/ka20251112b3_all.pdf
+- 財務省「令和7年の全国の税関における関税法違反事件の取締り状況」  
+  https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/mitsuyu/cy2025/ka20260217.pdf
+- 財務省「令和8年上半期の全国の税関における関税法違反事件の取締り状況」  
+  https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/mitsuyu/cy2026_1/ka20260925.pdf
+- 財務省「令和8年上半期の税関における知的財産侵害物品の差止状況」  
+  https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/chiteki/cy2026_1/ka20260904.pdf
 
 ## 公開前チェック
 
