@@ -18,6 +18,7 @@
 - [To-Be方針：区分2・3の書類審査に処理余力を生み出す](notes/03-to-be-direction.md)
 - [なぜNTTデータか：通関・貿易領域の実績と提案上の意味](notes/04-why-ntt-data.md)
 - [提案ストーリー草案：As-Isから審査支援システムまで](notes/05-proposal-storyline.md)
+- [現行提案：区分2・3向け類似過去案件検索](notes/06-similar-case-search-current-plan.md)
 
 ## 参考スライド
 
